@@ -1,3 +1,5 @@
+# Ukraina-krisen: Effektene på det norske aksjemarkedet
+
 Her finnes all kode for å gjennomføre analysene og frembringe resultatene som presenteres i følgende artikkel: 
 
 Kamal, M. R., & Wahlstrøm, R. R. (2023). Ukraina-krisen: Effektene på det norske aksjemarkedet. *Praktisk Økonomi & Finans*, 39(1), 5–16. https://doi.org/10.18261/pof.39.1.2
