@@ -15,4 +15,4 @@ Koden i denne filen genererer figurene til artiklen fra Excel-filene som blir pr
 Data som benyttes i artikkelen er hentet fra Refinitiv Eikon Datastream. Vi kan ikke dele data på grunn av begrensinger fra dataleverandør.
 
 <br/><br/>
-**Permanent link to this repository:** https://kamal-ukrainakrisen-2023.ranik.no/
+**Permanent link to the content in this repository:** https://kamal-ukrainakrisen-2023.ranik.no/
